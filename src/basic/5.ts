@@ -1,4 +1,3 @@
-
 enum daysOfWeek {
   Monday,
   Tuesday,
